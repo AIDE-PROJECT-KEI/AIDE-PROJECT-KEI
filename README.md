@@ -14,9 +14,11 @@ Dual Engine System: SRE (Structure Reasoning Engine) × TRIT CORE ENGINE.
 - Status (Oct 2026): research prototype · 355 automated tests passing · 8 related patent applications filed
 
 ## Research
-- TCRC — Theoretical Coherence & Recursive Convergence (Public Research Edition):
-  https://doi.org/10.5281/zenodo.23497266
-- JSAI 2026 paper presented
+- TCRC — Theoretical Coherence & Recursive Convergence** — mathematical basis of SRE.
+  Research Paper No.19: https://doi.org/10.5281/zenodo.23497266
+- ETR — Exposure Time Reasoning — temporal structure of constraint emergence.
+  Research Paper No.21: https://doi.org/10.5281/zenodo.18289464
+  JSAI 2026: "Theoretical Foundations of Temporal Constraints in Heterogeneous Data Integration"
 - ORCID: 0009-0003-6511-8210
 
 ## Code
